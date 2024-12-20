@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Perl: accessing an array element outside of its defined bounds. The `bug.pl` file contains the erroneous code, while `bugSolution.pl` shows how to avoid this problem using proper bounds checking.
